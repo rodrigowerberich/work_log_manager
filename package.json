@@ -1,5 +1,6 @@
 {
 	"name": "work-log-manager",
+	"publisher": "rwsmo",
 	"displayName": "Work Log Manager",
 	"description": "Help manage your work log",
 	"version": "0.0.1",
